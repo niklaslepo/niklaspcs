@@ -1,0 +1,75 @@
+body {
+      background-color: #ffffff;        /* bakgrunnsfarge */
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif /* skrifttype */
+    }
+
+    a[href] {
+      color: #037eb6;                   /* farge på linker */
+    }
+  
+    #hub {
+      width: auto;                        /* bredde av vinduet */
+      color: #ffffff;                   /* skriftfarge */
+      margin: auto ;                      /* storrelse pa margin */
+      padding: 20px 50px;                 /* luft mellom kantlinjene og innholdet */
+      background-color: #727272;        /* bakgrunnsfarge */
+      border: 1px solid #727272;        /* farge pa kantlinje */
+    }
+
+    #hovedsvart{
+      width: auto;                        /* bredde av vinduet */
+      color: #ffffff;                   /* skriftfarge */
+      margin: auto ;                      /* storrelse pa margin */
+      padding: 20px 50px;                 /* luft mellom kantlinjene og innholdet */
+      padding-bottom: 100px;              /* luft mellom kantlinjene og innholdet pa bunnen*/
+      background-color: #000000;        /* bakgrunnsfarge */
+      border: 10px solid #000000;       /* farge pa kantlinje */
+    }
+
+    #svart{
+      width: auto;                        /* samme kommandoer som i feltene ovenfor */
+      color: #ffffff;
+      margin: auto ;        
+      padding: 20px 50px;
+      background-color: #000000;   
+      border: 1px solid #000000; 
+    }
+
+    #hovedhvit{
+      width: auto;                        /* samme kommandoer som i feltene ovenfor */
+      color: #000000;
+      margin: auto ;        
+      padding: 20px 50px;             
+      padding-bottom: 100px;             
+      background-color: #ffffff;   
+      border: 10px solid #ffffff; 
+    }
+
+    #hvit{
+      width: auto;                        /* samme kommandoer som i feltene ovenfor */
+      color: #000000;
+      margin: auto ;        
+      padding: 20px 50px;            
+      background-color: #ffffff;   
+      border: 1px solid #ffffff; 
+    }
+
+    #bunn{
+      width: auto;                        /* samme kommandoer som i feltene ovenfor */
+      color: #ffffff;
+      margin: auto ;        
+      padding: 20px 50px;          
+      background-color: #000000;  
+      border: 10px solid #000000; 
+    }
+    .center {
+      display:block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+    
+
+    h1 { text-align: center;}             /* midtstiller h1 overskrifter */
+    h3 { text-align: center;}             /* midtstiller h3 overskrifter */
+    
